@@ -7,7 +7,7 @@
 <h2 id="tool-description">Tool Description</h2>
 <p><strong>Cloud-RF</strong> is a user-friendly service for modelling radio propagation.</p>
 <p>This intuitive tool has interfaces that have been built and shaped from the user feedback since its inception as an Android app in 2011.</p>
-<p>We built Cloud-RF as an <strong>easy interface</strong> especially for the small businesses which required the RF planning tool, but they either could not justify the huge expense for their premium packages or did not have the expertise required to use those tools.</p>
+<p>We built Cloud-RF as an <strong>easy interface</strong> especially for small businesses which required the RF planning tool, but they either could not justify the huge expense for their premium packages or did not have the expertise required to use those tools.</p>
 <p>At Cloud-RF, we pride ourselves in <strong>innovation</strong> and have transformed the way people conduct radio coverage modelling, disrupting what was a very expensive, and thereby exclusive, windows desktop market.</p>
 <h3 id="benefits">Benefits</h3>
 <hr>
@@ -22,7 +22,7 @@
 <p><strong>No heavy downloading required</strong> – No more downloading gigabytes of terrain data, antenna patterns, or preparing clutter layers are required – <strong>we have it all installed and ready to go and add more regularly by request</strong>.</p>
 </li>
 <li>
-<p><strong>Empirical and deterministic models</strong> – Most of the wireless technologies and the cross-platform interfaces in the models are easy-to-use; specially designed for the novices, while the advanced features including bit error rate are devised for the professional engineers.</p>
+<p><strong>Empirical and deterministic models</strong> – Most of the wireless technologies and the cross-platform interfaces in the models are easy-to-use; specially designed for the novices, while the advanced features including bit error rate are devised for professional engineers.</p>
 </li>
 <li>
 <p><strong>Covers the entire above-HF RF spectrum</strong> – with generous height ceilings and distances for aircraft, large power limits for long-range broadcasters, meshes for WISP and IoT networks, cellular propagation models for mobile networks, and environmental variables to accommodate suburban, rural &amp; mountain planners alike.</p>
@@ -189,7 +189,7 @@
 </ul>
 <h2 id="navigating-through-the-home-page">Navigating through the Home Page</h2>
 <p>After you login into your Cloud-RF account, the <strong>Home Page</strong> will be displayed.<br>
-<img src="https://user-images.githubusercontent.com/86053390/122515531-35d11c80-d02b-11eb-91af-73e0790f71b9.png" alt="Home Page_01"></p>
+<img src="https://user-images.githubusercontent.com/86053390/122722602-89dc3b00-d28f-11eb-8086-381e819c60f2.png" alt="Home Page_01"></p>
 <ul>
 <li>
 <p>You can access the <strong>Web Interface</strong>, <strong>Google Earth</strong>, <strong>API</strong>, <strong>My archive</strong> and <strong>My antennas</strong> by clicking on the respective button on the Home Page.<br>
@@ -322,7 +322,7 @@ Whenever you need <strong>assistance</strong> from our support team, you submit 
 </li>
 <li>
 <p>To copy the <strong>API Key</strong>, you can click on the <em>copy</em> icon.<br>
-<img src="https://user-images.githubusercontent.com/86053390/122515559-3ec1ee00-d02b-11eb-9cfb-1e8fb24ba6a6.png" alt="Home Page_02"></p>
+<img src="https://user-images.githubusercontent.com/86053390/122722604-8ba5fe80-d28f-11eb-9680-1e26d67cd548.png" alt="Home Page_02"></p>
 </li>
 <li>
 <p>Under <strong>My usage</strong> section,</p>
@@ -369,12 +369,11 @@ Whenever you need <strong>assistance</strong> from our support team, you submit 
 </ul>
 </li>
 <li>
-<p>The <strong>Plans</strong> screen will be displayed.</p>
+<p>The <strong>Plans</strong> screen will be displayed.<br>
+<img src="https://user-images.githubusercontent.com/86053390/122542369-3deb8500-d048-11eb-852f-c81793854f0c.png" alt="Ordering a Plan_1"></p>
 </li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/86053390/122542369-3deb8500-d048-11eb-852f-c81793854f0c.png" alt="Ordering a Plan_1"></p>
-<ul>
-<li>You can add the desired plans or subscriptions by clicking on the <strong>Add to cart</strong> or <strong>Sign up now</strong> button respectively.
+<li>
+<p>You can add the desired plans or subscriptions by clicking on the <strong>Add to cart</strong> or <strong>Sign up now</strong> button respectively.</p>
 <blockquote>
 <p>You can also upgrade your account from here to access all the available features.</p>
 </blockquote>
@@ -469,4 +468,55 @@ A <strong>Cloud-RF account</strong> and <strong>active plan</strong> are require
 <li>If you do not have a <strong>graphics card</strong> in your desktop, reduce your desktop’s resolution.</li>
 <li>Change your window size to match with your monitor using the  <strong>Ctrl -</strong> and <strong>Ctrl +</strong> shortcut keys.</li>
 </ul>
+<h2 id="inputs">Inputs</h2>
+<h2 id="site--transmitter">Site / Transmitter</h2>
+<p><img src="https://github.com/Unnati-09/Images/blob/main/Homepage.png" alt="Homepage"></p>
+<p>Signal<br>
+Feeder<br>
+Antenna<br>
+Antenna archive - searching and favouriting a pattern (Click heart icon)<br>
+Custom antenna pattern creation</p>
+<p>Mobile / Receiver<br>
+Model<br>
+Clutter<br>
+Output<br>
+Colour pattern generation using colour tool (Reload the interface after etc)<br>
+Templates<br>
+Creating<br>
+Saving<br>
+Deleting<br>
+Functions<br>
+Point-to-Multipoint / Area (Big green button)<br>
+Point-to-Point / Path (Ruler)<br>
+Best server (Medal)<br>
+Archive<br>
+Searching and Filtering<br>
+Loading<br>
+Deleting<br>
+Exporting<br>
+KMZ<br>
+KML<br>
+GTIFF<br>
+URL<br>
+HTML<br>
+Mesh (Grid icon)<br>
+Interference analysis (Lightning icon)<br>
+Best site analysis (Question mark icon)</p>
+<p>Map management<br>
+Choosing imagery (Top right)<br>
+Clearing layers (Recycle icon)<br>
+Changing layer opacity (slider at bottom)<br>
+Hiding layers (Tickboxes in top right)<br>
+Geocode / postcode search with search icon<br>
+Adding 3D terrain (Mountains icon)<br>
+Adding 3D buildings (Building icon)<br>
+Clutter management<br>
+Drawing a polyline (Pencil icon)<br>
+Drawing a polygon (Polygon icon)<br>
+Uploading a KML / GeoJSON file<br>
+Changing heights and types (Popup clutter menu)</p>
+<p>Mobile operation<br>
+Changing screen size / hiding the sidebar<br>
+Using the zoom in and out buttons (bottom bar)<br>
+Using touch screen pan/zoom/tilt/rotate finger motions (see help in top right of map)</p>
 
